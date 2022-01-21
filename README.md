@@ -20,11 +20,11 @@ Go to the project directory
 Install required libraries if not installed already
 
 ```bash
-  pip install smtplib
-  pip install email.mime
-  pip install datetime
-  pip install requests
-  pip install beautifulsoup4
+  pip3 install smtplib
+  pip3 install email.mime
+  pip3 install datetime
+  pip3 install requests
+  pip3 install beautifulsoup4
 ```
 
 Update lines #31, #32 and #33 [Provide "TO", "FROM" and "PASS" values]
